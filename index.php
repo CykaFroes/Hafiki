@@ -22,6 +22,22 @@ include "header.php"; ?>
       <p class="h4"><strong>A Hafiki é uma plataforma única de assessoria de imprensa, que alia relacionamento com a mídia nacional, produção de conteúdo de qualidade, marketing e performance digital, garantindo resultado com foco em um mundo que está cada vez mais digital. Garantindo um atendimento personalizado para os clientes e entregando o melhor de uma assessoria de imprensa.</strong></p>
     </div>
   </div>
+  <div class="row">
+  <div class="col-md-6 col-sm-6 col-lg-6 col-xs-12">
+      <div class="card">
+          <div class="card-header card-header-text card-header-primary">
+            <div class="card-text">
+              <h3 class="card-title">O que fazemos?</h4>
+            </div>
+          </div>
+          <div class="card-body">
+              <p class="h4">Fazemos os maiores serviços de assessoria de imprensa que voce ja viu </p>
+          </div>
+      </div>
+  </div>
+  </div>
 </div>
+</div>
+
 
 <?php include "footer.php"; ?>
